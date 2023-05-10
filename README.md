@@ -9,7 +9,7 @@
 
 <br/>  
 
-<img style="display: block;  margin-left: auto;  margin-right: auto;  width: 100%;" src="https://raw.githubusercontent.com/vppillai/vppillai/output/github-contribution-grid-snake.svg" />
+<img style="display: block;  margin-left: auto;  margin-right: auto;  width: 100%;" src="https://raw.githubusercontent.com/mcxen/mcxen/output/github-contribution-grid-snake.svg" />
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 
@@ -54,6 +54,6 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mcxen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
