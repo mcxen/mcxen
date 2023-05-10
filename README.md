@@ -9,10 +9,6 @@
 
 <br/>  
 
-<img style="display: block;  margin-left: auto;  margin-right: auto;  width: 100%;" src="https://raw.githubusercontent.com/mcxen/mcxen/output/github-contribution-grid-snake.svg" />
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-
 ## Visitor Statistics <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p align="center">
   <img src="https://profile-counter.glitch.me/ExcaliburEX/count.svg" />
