@@ -1,7 +1,7 @@
 ### <div align="center">I'm mcxen, a student java back-end developer 👨‍💻 studying at MSE@HUST since 2018🚀</div>  
   
 
-- 🌱 I’m currently learning JUC and Redis  
+- 🌱 I’m looking for internship opportunity
   
 
 - ⚡ Fun fact: I use tabs over spaces  
