@@ -14,7 +14,6 @@
   <img src="https://profile-counter.glitch.me/ExcaliburEX/count.svg" />
 </p>
 
-[![Mcxen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mcxen&theme=dracula)](https://github.com/mcxen/github-readme-activity-graph)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
@@ -45,6 +44,8 @@
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
+
+[![Mcxen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mcxen&theme=react-dark)](https://github.com/mcxen/github-readme-activity-graph)
 
 </td></tr></table>  
 
