@@ -45,7 +45,6 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-[![Mcxen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mcxen&theme=react-dark)](https://github.com/mcxen/github-readme-activity-graph)
 
 </td></tr></table>  
 
@@ -55,3 +54,5 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mcxen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+[![Mcxen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mcxen&theme=react-dark)](https://github.com/mcxen/github-readme-activity-graph)
