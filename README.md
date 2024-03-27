@@ -14,6 +14,7 @@
   <img src="https://profile-counter.glitch.me/ExcaliburEX/count.svg" />
 </p>
 
+[![Mcxen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mcxen&theme=dracula)](https://github.com/mcxen/github-readme-activity-graph)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
