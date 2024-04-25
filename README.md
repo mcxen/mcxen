@@ -1,6 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=2791F7&vCenter=true&random=false&width=500&lines=%E6%88%91%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%EF%BC%8C%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5;A+BACKEND+DEVELOPER;Welcome+To+My+Github;Mainly+Focus+On+Java+Spring+And+So+On..;I%E2%80%99m+looking+for+an+internship+opportunity;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Studying+at+MSE%40HUST+since+2018%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<br/>  
+<br/> 
+
+![Github](https://github.com/mcxen/mcxen/assets/83444002/dd06585a-c6cd-45ad-92ca-e348e92e6944)
+
+![Java](https://github.com/mcxen/mcxen/assets/83444002/ca4f405b-6b3d-4dd5-aa7a-6e6a0f6e3e46)
+
+
 
 ## Visitor Statistics <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p align="center">
