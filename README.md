@@ -2,11 +2,7 @@
 
 <br/> 
 
-![Github](https://github.com/mcxen/mcxen/assets/83444002/dd06585a-c6cd-45ad-92ca-e348e92e6944)
-
-![Java](https://github.com/mcxen/mcxen/assets/83444002/ca4f405b-6b3d-4dd5-aa7a-6e6a0f6e3e46)
-
-
+![Glitch Art](https://glitch-art.vercel.app/api/simple?word={Github##MCXEN})
 
 ## Visitor Statistics <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <p align="center">
